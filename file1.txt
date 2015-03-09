@@ -17,3 +17,9 @@ test test3qeqeqe
 
 //feature branch code
 test test
+
+// some other guy's feature
+line 1
+line 2
+line 3
+line 4

@@ -2,6 +2,7 @@
 2
 3
 
-so now im here but like, the local branch is gone, so how do i merge back?  a rebase?3
+so now im here but like, the local branch is gone, so how do i merge back?  a rebase?
 
 branched from master branch hue hue
+

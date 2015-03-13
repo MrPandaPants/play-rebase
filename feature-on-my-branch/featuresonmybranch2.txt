@@ -2,3 +2,5 @@ features on my branch
 features on my branch
 ok ill stop repeating myself
 features on my branch
+
+master changes
